@@ -1,4 +1,4 @@
-name: glados-checkin-for-http
+name: PTA-checkin-for-http
 
 on:
   workflow_dispatch:
